@@ -1,4 +1,4 @@
-package rjb.springservices.msbreweryclient.model;
+package rjb.springservices.msbreweryclient.web.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
